@@ -1,3 +1,6 @@
-cool code
-less cool code
-not cool code
+public class Example {
+    public static void main(String... args)
+    {
+
+    }
+}
